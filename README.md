@@ -1,7 +1,5 @@
-# 💫 Hi there!
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F2FE&width=435&lines=Hi+there%2C+I'm+Axzo001!;Codes%2C+games%2C+and+cubes." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F2FE&width=435&lines=Hello+World!;I'm+Axzo001.;Codes,+games,+and+cubes.&center=true&vCenter=true" alt="Typing SVG" />
 </div>
 
 ---
