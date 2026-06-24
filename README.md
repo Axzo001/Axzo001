@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F2FE&width=435&lines=Hello+World!;I'm+Axzo001.;Codes,+games,+and+cubes.&center=true&vCenter=true" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F2FE&width=500&lines=Hello+World!;I'm+Axzo001.;Codes,+games,+and+cubes.&center=true&vCenter=true" alt="Typing SVG" />
 </div>
 
 ---
@@ -58,18 +58,4 @@ I am a high school student interested in computer science, Linux customization, 
 
 ### 🌐 Connect & Support
 
-<div align="center">
-  <a href="https://instagram.com/axzo101">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://reddit.com/user/Axz01_">
-    <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" alt="Reddit" />
-  </a>
-  <br/><br/>
-  <a href="https://ko-fi.com/axz01">
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi" />
-  </a>
-  <a href="https://trakteer.id/axz01">
-    <img src="https://img.shields.io/badge/Trakteer-%23BE2C2A?style=for-the-badge&logo=trakteer&logoColor=white" alt="Trakteer" />
-  </a>
-</div>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/axzo101) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Axz01_) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/axz01) [![Trakteer](https://img.shields.io/badge/Trakteer-%23BE2C2A?style=for-the-badge&logo=trakteer&logoColor=white)](https://trakteer.id/axz01)
