@@ -5,7 +5,7 @@
 ---
 
 ### 👤 About Me
-I am a high school student interested in computer science, Linux customization, gaming, and speedcubing. I love exploring new technologies and building hardware/software projects.
+I am a high school student interested in computer science, Linux, gaming, and speedcubing. I love exploring new technologies and building hardware/software projects.
 
 ---
 
