@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 350" width="100%" height="100%">
+  <defs>
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00F2FE" stop-opacity="0.7"/>
+      <stop offset="50%" stop-color="#30363d" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#00F2FE" stop-opacity="0.7"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Main Window Frame -->
+  <rect x="2" y="2" width="796" height="346" rx="12" fill="#0D1117" stroke="url(#borderGrad)" stroke-width="1.5" />
+
+  <!-- Title Bar -->
+  <path d="M 2 14 Q 2 2 14 2 L 786 2 Q 798 2 798 14 L 798 38 L 2 38 Z" fill="#161B22" />
+  <line x1="2" y1="38" x2="798" y2="38" stroke="#30363D" stroke-width="1"/>
+
+  <!-- Window Dots -->
+  <circle cx="22" cy="20" r="6" fill="#FF5F56" />
+  <circle cx="42" cy="20" r="6" fill="#FFBD2E" />
+  <circle cx="62" cy="20" r="6" fill="#27C93F" />
+
+  <!-- Editor Tab -->
+  <rect x="85" y="8" width="160" height="24" rx="6" fill="#0D1117" stroke="#30363D" stroke-width="1"/>
+  <text x="165" y="24" fill="#00F2FE" font-family="'Fira Code', 'Courier New', monospace" font-size="11" font-weight="600" text-anchor="middle">zed › profile.cpp</text>
+  
+  <text x="500" y="24" fill="#8B949E" font-family="'Fira Code', 'Courier New', monospace" font-size="11" text-anchor="middle">axz01@Axz01: ~</text>
+
+  <!-- Arch Logo (Left) -->
+  <g font-family="'Fira Code', 'Courier New', monospace" font-size="13" font-weight="bold" fill="#00F2FE">
+    <text x="35" y="90">       /\</text>
+    <text x="35" y="112">      /  \</text>
+    <text x="35" y="134">     /\   \</text>
+    <text x="35" y="156">    /      \</text>
+    <text x="35" y="178">   /   ,,   \</text>
+    <text x="35" y="200">  /   |  |  -\</text>
+    <text x="35" y="222"> /_-''    ''-_\</text>
+  </g>
+
+  <!-- Divider -->
+  <line x1="230" y1="60" x2="230" y2="310" stroke="#30363D" stroke-width="1" stroke-dasharray="4,4"/>
+
+  <!-- System Info (Right) -->
+  <g font-family="'Fira Code', 'Segoe UI', monospace" font-size="12.5">
+    <text x="260" y="85" fill="#00F2FE" font-weight="bold">axz01</text>
+    <text x="302" y="85" fill="#8B949E">@</text>
+    <text x="312" y="85" fill="#00F2FE" font-weight="bold">Axz01</text>
+    <text x="260" y="100" fill="#30363D">------------------------------------------</text>
+
+    <text x="260" y="125" fill="#58A6FF" font-weight="bold">OS</text>
+    <text x="330" y="125" fill="#8B949E">›</text>
+    <text x="350" y="125" fill="#C9D1D9">Arch Linux x86_64</text>
+
+    <text x="260" y="150" fill="#58A6FF" font-weight="bold">Host</text>
+    <text x="330" y="150" fill="#8B949E">›</text>
+    <text x="350" y="150" fill="#C9D1D9">ASUS Vivobook 16 (RTX 4050 + Core 5)</text>
+
+    <text x="260" y="175" fill="#58A6FF" font-weight="bold">DE / WM</text>
+    <text x="330" y="175" fill="#8B949E">›</text>
+    <text x="350" y="175" fill="#C9D1D9">GNOME 50.4 (Console 50.0)</text>
+
+    <text x="260" y="200" fill="#58A6FF" font-weight="bold">Shell</text>
+    <text x="330" y="200" fill="#8B949E">›</text>
+    <text x="350" y="200" fill="#C9D1D9">zsh 5.9.2 + Starship</text>
+
+    <text x="260" y="225" fill="#58A6FF" font-weight="bold">Editor</text>
+    <text x="330" y="225" fill="#8B949E">›</text>
+    <text x="350" y="225" fill="#00F2FE" font-weight="bold">Zed</text>
+
+    <text x="260" y="250" fill="#58A6FF" font-weight="bold">Hobbies</text>
+    <text x="330" y="250" fill="#8B949E">›</text>
+    <text x="350" y="250" fill="#C9D1D9">Speedcubing (CFOP Sub-15), C++, CLI Tools</text>
+
+    <text x="260" y="275" fill="#58A6FF" font-weight="bold">Status</text>
+    <text x="330" y="275" fill="#8B949E">›</text>
+    <text x="350" y="275" fill="#7EE787">Building hardware &amp; software projects</text>
+
+    <!-- Color Palette -->
+    <rect x="260" y="300" width="16" height="12" fill="#484F58" rx="2"/>
+    <rect x="282" y="300" width="16" height="12" fill="#FF7B72" rx="2"/>
+    <rect x="304" y="300" width="16" height="12" fill="#7EE787" rx="2"/>
+    <rect x="326" y="300" width="16" height="12" fill="#F2CC60" rx="2"/>
+    <rect x="348" y="300" width="16" height="12" fill="#58A6FF" rx="2"/>
+    <rect x="370" y="300" width="16" height="12" fill="#BC8CFF" rx="2"/>
+    <rect x="392" y="300" width="16" height="12" fill="#00F2FE" rx="2"/>
+    <rect x="414" y="300" width="16" height="12" fill="#F0F6FC" rx="2"/>
+  </g>
+</svg>
