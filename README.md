@@ -6,16 +6,9 @@
 
 ### 🖥️ System Info
 
-```text
-       /\                  axz01@Axz01
-      /  \                 -----------
-     /\   \                OS       › Arch Linux x86_64
-    /      \               Host     › ASUS Vivobook 16 (RTX 4050 + Core 5 210H)
-   /   ,,   \              DE       › GNOME 50.4 (Console 50.0)
-  /   |  |  -\             Shell    › zsh 5.9.2 + Starship
- /_-''    ''-_\            Editor   › Zed
-                           Status   › Building hardware & software projects
-```
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Axzo001/Axzo001/main/assets/terminal-window.svg" alt="Zed & Arch Linux Terminal Window" width="100%" />
+</div>
 
 ---
 
