@@ -6,18 +6,16 @@
 
 ### 🖥️ System Info
 
-```ansi
- [36m       /\ [0m                  [1;36maxz01 [0m@ [1;36mAxz01 [0m
- [36m      /  \ [0m                 -----------
- [36m     /\   \ [0m                [1;34mOS       › [0m  [37mArch Linux x86_64 [0m
- [36m    /      \ [0m               [1;34mHost     › [0m  [37mASUS Vivobook 16 (RTX 4050 + Core 5 210H) [0m
- [36m   /   ,,   \ [0m              [1;34mDE       › [0m  [37mGNOME 50.4 (Console 50.0) [0m
- [36m  /   |  |  -\ [0m             [1;34mShell    › [0m  [37mzsh 5.9.2 + Starship [0m
- [36m /_-''    ''-_\ [0m            [1;34mEditor   › [0m  [1;36mZed [0m
-                           [1;34mHobbies  › [0m  [37mSpeedcubing (CFOP Sub-15), C++, CLI Tools [0m
-                           [1;34mStatus   › [0m  [1;32mBuilding hardware & software projects [0m
-
-  [40m    [0m  [41m    [0m  [42m    [0m  [43m    [0m  [44m    [0m  [45m    [0m  [46m    [0m  [47m    [0m
+```text
+       /\                  axz01@Axz01
+      /  \                 -----------
+     /\   \                OS       › Arch Linux x86_64
+    /      \               Host     › ASUS Vivobook 16 (RTX 4050 + Core 5 210H)
+   /   ,,   \              DE       › GNOME 50.4 (Console 50.0)
+  /   |  |  -\             Shell    › zsh 5.9.2 + Starship
+ /_-''    ''-_\            Editor   › Zed
+                           Hobbies  › Speedcubing (CFOP Sub-15), C++, CLI Tools
+                           Status   › Building hardware & software projects
 ```
 
 ---
