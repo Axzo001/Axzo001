@@ -20,35 +20,6 @@
 
 ---
 
-### 🧊 Daily 3x3 Scramble (WCA)
-
-<!-- SCRAMBLE_START -->
-```text
-📅 2026-08-22 › 3x3 WCA Scramble
-L2 D2 U' L2 B2 F' U L2 U R' B2 F2 R2 U2 F2 B2 D2 L' D' F2 L2
-```
-<!-- SCRAMBLE_END -->
-
----
-
-### 📊 3D Contributions
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Axzo001/Axzo001/main/profile-3d-contrib/profile-night-rainbow.svg" alt="GitCity 3D Contributions" width="100%" />
-</div>
-
----
- 
-### 🎮 Discord & Spotify
-
-<div align="center">
-  <a href="https://discord.com" target="_blank"><img src="https://lanyard.cnrad.dev/api/1087346337965682729?theme=dark&bg=0D1117&animated=true&hideDiscrim=true&borderRadius=10px" alt="Discord Status" /></a>
-  <br/><br/>
-  <a href="https://github.com/kittinan/spotify-github-profile" target="_blank"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rupqm4usjyoxkompzn6kipqgpa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false" alt="Spotify Now Playing" /></a>
-</div>
-
----
-
 ### 💻 Tech Stack
 
 <div align="center">
@@ -66,14 +37,33 @@ L2 D2 U' L2 B2 F' U L2 U R' B2 F2 R2 U2 F2 B2 D2 L' D' F2 L2
 
 ---
 
-### 📈 GitHub Stats
+### 📈 Activity & Stats
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Axzo001/Axzo001/main/profile-3d-contrib/profile-night-rainbow.svg" alt="GitCity 3D Contributions" width="100%" />
+  <br/><br/>
   <img src="https://github-readme-stats.shion.dev/api?username=Axzo001&theme=dark&hide_border=false&include_all_commits=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Axzo001&theme=dark&hide_border=false&include_all_commits=true&layout=compact" alt="Top Languages" />
   <br/><br/>
   <img src="https://streak-stats.demolab.com/?user=Axzo001&theme=dark&hide_border=false" alt="GitHub Streak" />
 </div>
+
+---
+
+### 🎮 Live Status & Daily Scramble
+
+<div align="center">
+  <a href="https://discord.com" target="_blank"><img src="https://lanyard.cnrad.dev/api/1087346337965682729?theme=dark&bg=0D1117&animated=true&hideDiscrim=true&borderRadius=10px" alt="Discord Status" /></a>
+  <br/><br/>
+  <a href="https://github.com/kittinan/spotify-github-profile" target="_blank"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rupqm4usjyoxkompzn6kipqgpa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false" alt="Spotify Now Playing" /></a>
+</div>
+
+<!-- SCRAMBLE_START -->
+```text
+📅 2026-08-22 › 3x3 WCA Scramble
+L2 D2 U' L2 B2 F' U L2 U R' B2 F2 R2 U2 F2 B2 D2 L' D' F2 L2
+```
+<!-- SCRAMBLE_END -->
 
 ---
 
