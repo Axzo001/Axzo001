@@ -1,0 +1,91 @@
+name: Update Daily Scramble
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-scramble:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Generate Scramble and Update README
+        run: |
+          python - << 'EOF'
+          import random
+          import re
+          from datetime import datetime, timezone
+
+          faces = ["U", "D", "L", "R", "F", "B"]
+          modifiers = ["", "'", "2"]
+          opposite_pairs = [("U", "D"), ("L", "R"), ("F", "B")]
+
+          def get_axis(face):
+              for i, pair in enumerate(opposite_pairs):
+                  if face in pair:
+                      return i
+              return -1
+
+          def generate_scramble(length=21):
+              scramble = []
+              prev_face = None
+              prev_axis = None
+              second_prev_axis = None
+
+              for _ in range(length):
+                  while True:
+                      face = random.choice(faces)
+                      axis = get_axis(face)
+                      if face == prev_face:
+                          continue
+                      if axis == prev_axis and axis == second_prev_axis:
+                          continue
+                      break
+
+                  modifier = random.choice(modifiers)
+                  scramble.append(f"{face}{modifier}")
+                  second_prev_axis = prev_axis
+                  prev_axis = axis
+                  prev_face = face
+
+              return " ".join(scramble)
+
+          today = datetime.now(timezone.utc).strftime('%Y-%m-%d')
+          new_scramble = generate_scramble()
+
+          content_block = f"<!-- SCRAMBLE_START -->\n```text\n📅 {today} › 3x3 WCA Scramble\n{new_scramble}\n```\n<!-- SCRAMBLE_END -->"
+
+          with open("README.md", "r", encoding="utf-8") as f:
+              readme = f.read()
+
+          pattern = r"<!-- SCRAMBLE_START -->.*?<!-- SCRAMBLE_END -->"
+          updated_readme = re.sub(pattern, content_block, readme, flags=re.DOTALL)
+
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(updated_readme)
+
+          print(f"Generated scramble for {today}: {new_scramble}")
+          EOF
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "No changes"
+          else
+            git commit -m "chore: update daily rubik's cube scramble"
+            git push
+          fi
