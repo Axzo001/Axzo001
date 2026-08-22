@@ -4,8 +4,6 @@
 
 ---
 
-### 🖥️ System Information (`fastfetch --profile`)
-
 ```text
        /\                  axz01@Axz01
       /  \                 -----------
@@ -14,34 +12,30 @@
    /   ,,   \              DE       › GNOME 50.4 (Console 50.0)
   /   |  |  -\             Shell    › zsh 5.9.2 + Starship
  /_-''    ''-_\            Editor   › VS Code / Neovim
-                           Hobbies  › Speedcubing (CFOP Sub-15), C++, CLI Tools
                            Status   › Building hardware & software projects
 ```
 
 ---
 
-### 🏙️ GitCity — 3D Skyline Activity
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/Axzo001/Axzo001/main/profile-3d-contrib/profile-night-rainbow.svg" alt="GitCity 3D Contributions" width="100%" />
 </div>
 
-<!-- 
-### 📡 Live Telemetry & Status
-(Uncomment when you have your Discord and Spotify IDs ready)
+---
+ 
+📡 Live Telemetry & Status
 <div align="center">
   <a href="https://discord.com">
-    <img src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_USER_ID?theme=dark&bg=0D1117&animated=true&hideDiscrim=true&borderRadius=10px" alt="Discord Status" width="48%" />
+    <img src="https://lanyard.cnrad.dev/api/1087346337965682729?theme=dark&bg=0D1117&animated=true&hideDiscrim=true&borderRadius=10px" alt="Discord Status" width="48%" />
   </a>
   <a href="https://open.spotify.com">
-    <img src="https://spotify-github-profile.kittinanx.com/api/run?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&bar_color=00f2fe&background_color=0d1117" alt="Spotify Now Playing" width="48%" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/run?uid=31rupqm4usjyoxkompzn6kipqgpa&cover_image=true&theme=novatorem&bar_color=00f2fe&background_color=0d1117" alt="Spotify Now Playing" width="48%" />
   </a>
 </div>
--->
 
 ---
 
-### 💻 Tech Stack & Weapons of Choice
+### 💻 Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,ts,js,html,css,arduino,linux,arch,git,github,vercel,figma" alt="Skill Icons" />
