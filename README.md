@@ -49,7 +49,7 @@
 <div align="center">
   <a href="https://discord.com" target="_blank"><img src="https://lanyard.cnrad.dev/api/1087346337965682729?theme=dark&bg=0D1117&animated=true&hideDiscrim=true&borderRadius=10px" alt="Discord Status" /></a>
   <br/><br/>
-  <a href="https://github.com/kittinan/spotify-github-profile" target="_blank"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rupqm4usjyoxkompzn6kipqgpa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false" alt="Spotify Now Playing" /></a>
+  <a href="https://github.com/kittinan/spotify-github-profile" target="_blank"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rupqm4usjyoxkompzn6kipqgpa&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false" alt="Spotify Now Playing" /></a>
 </div>
 
 <!-- SCRAMBLE_START -->
