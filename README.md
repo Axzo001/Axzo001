@@ -7,7 +7,7 @@
 ### 🖥️ System Info
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Axzo001/Axzo001/main/assets/terminal-window.svg" alt="Zed & Arch Linux Terminal Window" width="100%" />
+  <img src="./assets/terminal-window.svg" alt="Zed & Arch Linux Terminal Window" width="100%" />
 </div>
 
 ---
