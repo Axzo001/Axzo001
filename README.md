@@ -25,7 +25,7 @@
 <!-- SCRAMBLE_START -->
 ```text
 📅 2026-08-22 › 3x3 WCA Scramble
-D2 R' F2 L' B2 D2 F L2 B' D2 U2 L' U' B D' L' U R2 F' D2
+L2 D2 U' L2 B2 F' U L2 U R' B2 F2 R2 U2 F2 B2 D2 L' D' F2 L2
 ```
 <!-- SCRAMBLE_END -->
 
