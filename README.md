@@ -6,8 +6,32 @@
 
 ### 🖥️ System Info
 
+```text
+       /\                  axz01@Axz01
+      /  \                 -----------
+     /\   \                OS       › Arch Linux x86_64
+    /      \               Host     › ASUS Vivobook 16 (RTX 4050 + Core 5 210H)
+   /   ,,   \              DE       › GNOME 50.4 (Console 50.0)
+  /   |  |  -\             Shell    › zsh 5.9.2 + Starship
+ /_-''    ''-_\            Editor   › Zed
+                           Hobbies  › Speedcubing (CFOP Sub-15), C++, CLI Tools
+                           Status   › Building hardware & software projects
+```
+
+---
+
+### 🕹️ Interactive Minigame (Community Tic-Tac-Toe)
+
 <div align="center">
-  <img src="./assets/terminal-window.svg" alt="Zed & Arch Linux Terminal Window" width="100%" />
+  <p><b>🎮 Turn: Player ❌ vs Player ⭕</b></p>
+
+| Top Left | Top Mid | Top Right |
+| :---: | :---: | :---: |
+| [⬜ Play here](https://github.com/Axzo001/Axzo001/issues/new?title=ttt%3A+move+0+0&body=Just+submit+this+issue+to+make+your+move!) | [⬜ Play here](https://github.com/Axzo001/Axzo001/issues/new?title=ttt%3A+move+0+1&body=Just+submit+this+issue+to+make+your+move!) | [⬜ Play here](https://github.com/Axzo001/Axzo001/issues/new?title=ttt%3A+move+0+2&body=Just+submit+this+issue+to+make+your+move!) |
+| [⬜ Play here](https://github.com/Axzo001/Axzo001/issues/new?title=ttt%3A+move+1+0&body=Just+submit+this+issue+to+make+your+move!) | [❌](https://github.com/Axzo001/Axzo001) | [⬜ Play here](https://github.com/Axzo001/Axzo001/issues/new?title=ttt%3A+move+1+2&body=Just+submit+this+issue+to+make+your+move!) |
+| [⬜ Play here](https://github.com/Axzo001/Axzo001/issues/new?title=ttt%3A+move+2+0&body=Just+submit+this+issue+to+make+your+move!) | [⬜ Play here](https://github.com/Axzo001/Axzo001/issues/new?title=ttt%3A+move+2+1&body=Just+submit+this+issue+to+make+your+move!) | [⭕](https://github.com/Axzo001/Axzo001) |
+
+  <sub>💡 Click on any empty box above to submit a move via GitHub Issues!</sub>
 </div>
 
 ---
