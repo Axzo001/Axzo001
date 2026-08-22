@@ -20,19 +20,14 @@
 
 ---
 
-### 🕹️ Interactive Minigame (Community Tic-Tac-Toe)
+### 🧊 Daily 3x3 Scramble (WCA)
 
-<div align="center">
-  <p><b>🎮 Turn: Player ❌ vs Player ⭕</b></p>
-
-| Top Left | Top Mid | Top Right |
-| :---: | :---: | :---: |
-| [⬜ Play here](https://github.com/Axzo001/Axzo001/issues/new?title=ttt%3A+move+0+0&body=Just+submit+this+issue+to+make+your+move!) | [⬜ Play here](https://github.com/Axzo001/Axzo001/issues/new?title=ttt%3A+move+0+1&body=Just+submit+this+issue+to+make+your+move!) | [⬜ Play here](https://github.com/Axzo001/Axzo001/issues/new?title=ttt%3A+move+0+2&body=Just+submit+this+issue+to+make+your+move!) |
-| [⬜ Play here](https://github.com/Axzo001/Axzo001/issues/new?title=ttt%3A+move+1+0&body=Just+submit+this+issue+to+make+your+move!) | [❌](https://github.com/Axzo001/Axzo001) | [⬜ Play here](https://github.com/Axzo001/Axzo001/issues/new?title=ttt%3A+move+1+2&body=Just+submit+this+issue+to+make+your+move!) |
-| [⬜ Play here](https://github.com/Axzo001/Axzo001/issues/new?title=ttt%3A+move+2+0&body=Just+submit+this+issue+to+make+your+move!) | [⬜ Play here](https://github.com/Axzo001/Axzo001/issues/new?title=ttt%3A+move+2+1&body=Just+submit+this+issue+to+make+your+move!) | [⭕](https://github.com/Axzo001/Axzo001) |
-
-  <sub>💡 Click on any empty box above to submit a move via GitHub Issues!</sub>
-</div>
+<!-- SCRAMBLE_START -->
+```text
+📅 2026-08-22 › 3x3 WCA Scramble
+D2 R' F2 L' B2 D2 F L2 B' D2 U2 L' U' B D' L' U R2 F' D2
+```
+<!-- SCRAMBLE_END -->
 
 ---
 
