@@ -9,10 +9,10 @@
 ```text
        /\                  axz01@Axz01
       /  \                 -----------
-     /\   \                OS       › Arch Linux x86_64
+     /\   \                OS       › Arch Linux
     /      \               Host     › ASUS Vivobook V16
-   /   ,,   \              DE       › GNOME 50.4 (Console 50.0)
-  /   |  |  -\             Shell    › zsh 5.9.2
+   /   ,,   \              DE       › GNOME
+  /   |  |  -\             Shell    › zsh
  /_-''    ''-_\            Editor   › Zed
                            Status   › Building hardware & software projects
 ```
