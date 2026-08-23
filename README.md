@@ -10,9 +10,9 @@
        /\                  axz01@Axz01
       /  \                 -----------
      /\   \                OS       › Arch Linux x86_64
-    /      \               Host     › ASUS Vivobook Gaming V16 (RTX 4050 + Core 5 210H)
+    /      \               Host     › ASUS Vivobook V16
    /   ,,   \              DE       › GNOME 50.4 (Console 50.0)
-  /   |  |  -\             Shell    › zsh 5.9.2 + Starship
+  /   |  |  -\             Shell    › zsh 5.9.2
  /_-''    ''-_\            Editor   › Zed
                            Status   › Building hardware & software projects
 ```
