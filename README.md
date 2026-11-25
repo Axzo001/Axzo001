@@ -63,8 +63,8 @@
 
 <!-- SCRAMBLE_START -->
 ```text
-📅 2026-11-24 › 3x3 WCA Scramble
-R' F2 L2 F B' U F U B2 F2 D' R2 L' F D' L R D' R' B2 R
+📅 2026-11-25 › 3x3 WCA Scramble
+D' U R' B' U2 L' U L2 B2 D' U' R2 D' F2 U2 L2 D' L' B D2 R2
 ```
 <!-- SCRAMBLE_END -->
 
